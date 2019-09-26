@@ -67,6 +67,19 @@
       "draw": "Показать новые данные",
       "selection": "Выбрать данные для экспорта",
       "legend": "Показать/скрыть описание"
-    }
+    },
+  "no": {
+    "labels": {
+      "autoscale": "Zoom",
+      "draw": "Tegn",
+      "selection": "Velg",
+      "legend": "Nøkkel"
+    },
+    "tooltips": {
+      "autoscale": "Vis alle data (Skaler automatisk))",
+      "draw": "Tegn nye datapunkt",
+      "selection": "Velg data for eksport",
+      "legend": "Vis/Skjul forklaring"
+    }  
   }
 }
