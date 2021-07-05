@@ -68,5 +68,19 @@
       "selection": "Выбрать данные для экспорта",
       "legend": "Показать/скрыть описание"
     }
+  },
+  "cs-CZ": {
+    "labels": {
+      "autoscale": "Lupa",
+      "draw": "Vykreslit",
+      "selection": "Vybrat",
+      "legend": "Legenda"
+    },
+    "tooltips": {
+      "autoscale": "Ukázat všechna data (automatické měřítko)",
+      "draw": "Vykreslit nová data",
+      "selection": "Vybrat data pro export",
+      "legend": "Ukázat/skrýt legendu"
+    }
   }
 }
